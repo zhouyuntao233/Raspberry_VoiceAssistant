@@ -1,2 +1,1 @@
-"# raspberry_smartvoice" 
-"# Raspberry_VoiceAssistant" 
+# Raspberry_VoiceAssistant 
